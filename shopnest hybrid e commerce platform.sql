@@ -1,7 +1,7 @@
 -- ============================================================
 -- ShopNest Hybrid E-Commerce Database
--- Student: [Your Name] | ID: [Your Student ID]
--- Advanced Databases Project -- May 2025  |  MySQL 8.0+
+-- Student: [joseph antony] | ID: [GH1053058]
+-- Advanced Databases Project -- March 2026  |  MySQL 8.0+
 -- ============================================================
 -- STRUCTURE:
 --   A  SQL side    : categories, users, addresses, orders, payments, shipping,
